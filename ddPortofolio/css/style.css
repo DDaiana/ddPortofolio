@@ -782,6 +782,30 @@ only screen and (min-width: 576px) and (max-width: 767px),
 	}
 }
 
+/* ------------------ video ----------------- */
+
+.about-img video {
+	width: 515px;
+	height: 515px;
+	border-radius: 50%;
+	margin: 82px auto 50px;
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+	.about-img video {
+		width: 250px;
+		height: 250px;
+	}
+}
+
+@media (max-width: 576px) {
+	.about-img video {
+		width: 180px;
+		height: 180px;
+	}
+}
+
+
 .profile-text {
 	max-width: 550px;
 	margin: 0 auto;
