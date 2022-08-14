@@ -1052,7 +1052,15 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 	margin-right: 6px;
 }
 
-.gallery-item .gi-hover h6 {
+/* .gallery-item .gi-hover h6 {
+	padding-top: 5px;
+	display: inline-block;
+	color: #fff;
+	position: relative;
+	top: 2px;
+} */
+
+.gallery-item .gi-hover h3 {
 	padding-top: 5px;
 	display: inline-block;
 	color: #fff;
