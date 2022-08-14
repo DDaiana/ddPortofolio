@@ -924,7 +924,8 @@ only screen and (min-width: 576px) and (max-width: 767px),
 	overflow: hidden;
 	padding-top: 30px;
 	padding-right: 74px;
-	padding-left: 210px;
+	/* padding-left: 210px; */
+	padding-left: 50px;
 	z-index: 99;
 }
 
