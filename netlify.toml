@@ -1,7 +1,0 @@
-[build]
-    CI = "npm run build"
-    publish = "/ddPortofolio
-[[redirects]]
-    from = "/*"
-    to = "/index.html"
-    status = 200
