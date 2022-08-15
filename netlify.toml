@@ -1,6 +1,6 @@
 [build]
     CI = "npm run build"
-    publish = "/main"
+    publish = "/ddPortofolio
 [[redirects]]
     from = "/*"
     to = "/index.html"
